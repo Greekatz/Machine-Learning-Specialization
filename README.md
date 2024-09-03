@@ -1,7 +1,7 @@
 # Machine Learning Specialization
 
 ## Certificates
-
+![alt text](https://github.com/Greekatz/Machine-Learning-Specialization/blob/main/Certificates/Machine%20Learning%20Specialization.pdf)
 
 ## Notes
 
